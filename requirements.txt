@@ -1,0 +1,4 @@
+pytest
+shellingham
+colorama
+typer
